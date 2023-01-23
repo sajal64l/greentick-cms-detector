@@ -3,6 +3,8 @@
 *******************************************************************************************
 
 To use this tool:
+	git clone https://github.com/sajal64l/greentick-cms-detector.git
+		then ==>
 	./cms-detector.sh -u domain.com
 
 This tool uses the Whaweb Tool to get the result. The result of this tool depends entirely
